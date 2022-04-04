@@ -1,0 +1,16 @@
+C:\Users\bazil\source\repos\Zad4\Service\obj\Debug\Service.csprojAssemblyReference.cache
+C:\Users\bazil\source\repos\Zad4\Service\obj\Debug\Service.csproj.CoreCompileInputs.cache
+C:\Users\bazil\source\repos\Zad4\Service\bin\Debug\Service.dll.config
+C:\Users\bazil\source\repos\Zad4\Service\bin\Debug\Service.dll
+C:\Users\bazil\source\repos\Zad4\Service\bin\Debug\Service.pdb
+C:\Users\bazil\source\repos\Zad4\Service\bin\Debug\EntityFramework.dll
+C:\Users\bazil\source\repos\Zad4\Service\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\bazil\source\repos\Zad4\Service\bin\Debug\Storage.dll
+C:\Users\bazil\source\repos\Zad4\Service\bin\Debug\Storage.pdb
+C:\Users\bazil\source\repos\Zad4\Service\bin\Debug\Storage.dll.config
+C:\Users\bazil\source\repos\Zad4\Service\bin\Debug\EntityFramework.xml
+C:\Users\bazil\source\repos\Zad4\Service\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\bazil\source\repos\Zad4\Service\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\bazil\source\repos\Zad4\Service\obj\Debug\Service.csproj.CopyComplete
+C:\Users\bazil\source\repos\Zad4\Service\obj\Debug\Service.dll
+C:\Users\bazil\source\repos\Zad4\Service\obj\Debug\Service.pdb

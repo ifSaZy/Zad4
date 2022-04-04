@@ -1,0 +1,13 @@
+C:\Users\bazil\source\repos\Zad4\Storage\bin\Debug\Storage.dll.config
+C:\Users\bazil\source\repos\Zad4\Storage\bin\Debug\Storage.dll
+C:\Users\bazil\source\repos\Zad4\Storage\bin\Debug\Storage.pdb
+C:\Users\bazil\source\repos\Zad4\Storage\bin\Debug\EntityFramework.dll
+C:\Users\bazil\source\repos\Zad4\Storage\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\bazil\source\repos\Zad4\Storage\bin\Debug\EntityFramework.xml
+C:\Users\bazil\source\repos\Zad4\Storage\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\bazil\source\repos\Zad4\Storage\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\bazil\source\repos\Zad4\Storage\obj\Debug\Storage.csprojAssemblyReference.cache
+C:\Users\bazil\source\repos\Zad4\Storage\obj\Debug\Storage.csproj.CoreCompileInputs.cache
+C:\Users\bazil\source\repos\Zad4\Storage\obj\Debug\Storage.csproj.CopyComplete
+C:\Users\bazil\source\repos\Zad4\Storage\obj\Debug\Storage.dll
+C:\Users\bazil\source\repos\Zad4\Storage\obj\Debug\Storage.pdb
